@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#282828</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#E7DBDF</color>
+    <color name="bag">#108c6a</color>
+    <color name="bag_m">#282828</color>
+    <color name="white">#282828</color>
+</resources>
