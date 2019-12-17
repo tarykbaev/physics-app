@@ -24,6 +24,9 @@
         <activity
             android:name=".Mechanics"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Serach2"
+            android:theme="@style/AppTheme.NoActionBar" />
 
         <activity android:name=".MainActivity">
             <intent-filter>

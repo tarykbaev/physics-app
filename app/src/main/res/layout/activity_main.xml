@@ -48,4 +48,19 @@
         android:contentDescription="@string/todo" />
     </LinearLayout>
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="50dp">
+
+        <ImageView
+            android:id="@+id/searsh"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/find"
+            android:contentDescription="@string/todo" />
+
+    </LinearLayout>
+
 </LinearLayout>
