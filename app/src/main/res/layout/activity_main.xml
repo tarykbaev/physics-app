@@ -16,7 +16,9 @@
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:src="@drawable/m"
-        android:contentDescription="@string/todo" />
+        android:contentDescription="@string/todo"
+        android:clickable="true"
+        android:focusable="true" />
 
     <ImageView
         android:id="@+id/image_m2"
@@ -24,7 +26,10 @@
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:src="@drawable/t"
-        android:contentDescription="@string/todo" />
+        android:contentDescription="@string/todo"
+        android:clickable="true"
+        android:focusable="true"
+        />
 </LinearLayout>
 
     <LinearLayout
@@ -37,7 +42,10 @@
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:src="@drawable/e"
-        android:contentDescription="@string/todo" />
+        android:contentDescription="@string/todo"
+        android:clickable="true"
+        android:focusable="true"
+        />
 
     <ImageView
         android:id="@+id/image_m4"
@@ -45,7 +53,10 @@
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:src="@drawable/v"
-        android:contentDescription="@string/todo" />
+        android:contentDescription="@string/todo"
+        android:clickable="true"
+        android:focusable="true"
+        />
     </LinearLayout>
 
     <LinearLayout
@@ -59,7 +70,10 @@
             android:layout_width="100dp"
             android:layout_height="100dp"
             android:src="@drawable/find"
-            android:contentDescription="@string/todo" />
+            android:contentDescription="@string/todo"
+            android:clickable="true"
+            android:focusable="true"
+            />
 
     </LinearLayout>
 
