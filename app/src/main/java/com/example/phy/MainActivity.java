@@ -13,11 +13,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        image_m1 = (ImageView) findViewById(R.id.image_m1);
-        image_m2 = (ImageView) findViewById(R.id.image_m2);
-        image_m3 = (ImageView) findViewById(R.id.image_m3);
-        image_m4 = (ImageView) findViewById(R.id.image_m4);
-        image_m5 = (ImageView) findViewById(R.id.searsh);
+        image_m1 = findViewById(R.id.image_m1);
+        image_m2 = findViewById(R.id.image_m2);
+        image_m3 = findViewById(R.id.image_m3);
+        image_m4 = findViewById(R.id.image_m4);
+        image_m5 = findViewById(R.id.searsh);
 
         image_m1.setOnClickListener(this);
         image_m2.setOnClickListener(this);
